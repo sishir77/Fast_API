@@ -1,2 +1,2 @@
 # Fast_API
-I am learning FASTAPI.
+I am learning FastApi.
